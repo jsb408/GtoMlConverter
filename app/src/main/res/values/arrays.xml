@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="units">
+        <item>water</item>
+        <item>flour</item>
+        <item>sugar</item>
+        <item>salt</item>
+        <item>butter</item>
+        <item>cooking oil</item>
+        <item>milk</item>
+        <item>starch</item>
+        <item>baking powder</item>
+        <item>baking soda</item>
+        <item>gelatin</item>
+        <item>egg</item>
+        <item>egg yolk</item>
+        <item>egg white</item>
+        <item>shortening</item>
+        <item>skim milk powder</item>
+        <item>sugar powder</item>
+        <item>almond powder</item>
+        <item>chopped chocolate</item>
+        <item>dry yeast</item>
+        <item>walnut crumb</item>
+        <item>rum</item>
+        <item>strawberry jam</item>
+        <item>butter cream</item>
+        <item>baking improver</item>
+        <item>creamyvit</item>
+        <item>sediment</item>
+        <item>whipping cream</item>
+        <item>sake(alcohol)</item>
+        <item>brown sugar</item>
+        <item>mozzarella cheese</item>
+        <item>chopped ham</item>
+        <item>cheese powder</item>
+        <item>chocolate chip</item>
+        <item>yellow sugar</item>
+        <item>vanilla flavor</item>
+        <item>levain</item>
+        <item>nopal cactus powder</item>
+        <item>honey</item>
+        <item>green tea powder</item>
+    </string-array>
+
+    <integer-array name="gpercup">
+        <item>200</item>
+        <item>120</item>
+        <item>160</item>
+        <item>160</item>
+        <item>170</item>
+        <item>160</item>
+        <item>180</item>
+        <item>130</item>
+        <item>150</item>
+        <item>140</item>
+        <item>100</item>
+        <item>220</item>
+        <item>160</item>
+        <item>210</item>
+        <item>160</item>
+        <item>95</item>
+        <item>115</item>
+        <item>90</item>
+        <item>110</item>
+        <item>200</item>
+        <item>100</item>
+        <item>200</item>
+        <item>333</item>
+        <item>227</item>
+        <item>106</item>
+        <item>140</item>
+        <item>400</item>
+        <item>226</item>
+        <item>200</item>
+        <item>150</item>
+        <item>105</item>
+        <item>80</item>
+        <item>117</item>
+        <item>155</item>
+        <item>140</item>
+        <item>95</item>
+        <item>217</item>
+        <item>167</item>
+        <item>267</item>
+        <item>67</item>
+    </integer-array>
+</resources>

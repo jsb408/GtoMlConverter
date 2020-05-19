@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="units">
+        <item>물</item>
+        <item>밀가루</item>
+        <item>설탕</item>
+        <item>소금</item>
+        <item>버터</item>
+        <item>식용유</item>
+        <item>우유</item>
+        <item>전분</item>
+        <item>베이킹파우더</item>
+        <item>베이킹소다</item>
+        <item>젤라틴</item>
+        <item>계란</item>
+        <item>계란 노른자</item>
+        <item>계란 흰자</item>
+        <item>쇼트닝</item>
+        <item>탈지분유</item>
+        <item>슈가파우더</item>
+        <item>아몬드파우더</item>
+        <item>다진 초콜릿</item>
+        <item>드라이이스트</item>
+        <item>호두분태</item>
+        <item>럼주</item>
+        <item>딸기잼</item>
+        <item>버터크림</item>
+        <item>제빵개량제</item>
+        <item>크리미비트</item>
+        <item>앙금류</item>
+        <item>생크림</item>
+        <item>정종</item>
+        <item>흑설탕</item>
+        <item>모짜렐라치즈</item>
+        <item>다진 햄</item>
+        <item>황치즈가루</item>
+        <item>초코칩</item>
+        <item>황설탕</item>
+        <item>바닐라향</item>
+        <item>르뱅</item>
+        <item>백련초가루</item>
+        <item>꿀</item>
+        <item>녹차가루</item>
+    </string-array>
+</resources>

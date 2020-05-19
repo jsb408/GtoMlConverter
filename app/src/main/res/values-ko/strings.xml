@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">g to mL 변환기</string>
+    <string name="egg_alert">※ 계란은 보통 1개 당 60g으로 계산합니다</string>
+    <string name="units">1티스푼(작은술) = 5mL\n1테이블스푼(큰술) = 15mL\n1컵 = 200mL</string>
+    <string name="save">저장</string>
+    <string name="err_alert">올바른 값을 입력해주세요</string>
+    <string name="add_msg">" (이/가) 추가되었습니다"</string>
+</resources>
