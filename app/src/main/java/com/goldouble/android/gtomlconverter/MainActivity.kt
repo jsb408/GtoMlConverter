@@ -25,15 +25,13 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val r = Runnable {
+        Thread(Runnable {
             recipeList = recipeDB?.recipeDao()?.getAll()!!
             mAdapter = RecipeAdapter(recipeList)
 
             recipeRecyclerView.adapter = mAdapter
             recipeRecyclerView.layoutManager = LinearLayoutManager(this)
-        }
-        val thread = Thread(r)
-        thread.start()
+        }).start()
 
         MobileAds.initialize(this, getString(R.string.admob_app_id))
         val adRequest = AdRequest.Builder().build()
@@ -62,7 +60,7 @@ class MainActivity : AppCompatActivity() {
                 convertedText.setText("0")
             }
 
-            override fun onNothingSelected(p0: AdapterView<*>?) { }
+            override fun onNothingSelected(p0: AdapterView<*>?) = Unit
         }
 
         convertedText.addTextChangedListener {
