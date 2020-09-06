@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">g para mL Conversor</string>
+    <string name="units">1ts = 5mL\n1Ts = 15mL\n1Cup = 200mL</string>
+    <string name="egg_alert">※ Os ovos custam geralmente 60g por unidade.</string>
+    <string name="err_alert">Por favor, insira o valor correto.</string>
+    <string name="add_msg">" foi adicionado com sucesso."</string>
+    <string name="save">salve</string>
+</resources>

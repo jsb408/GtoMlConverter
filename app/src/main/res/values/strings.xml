@@ -1,4 +1,7 @@
 <resources>
+    <string name="admob_app_id" translatable="false">ca-app-pub-2116099479139841~1005460378</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-2116099479139841/7700120419</string>
+
     <string name="app_name">g to mL Converter</string>
     <string name="g" translatable="false">g</string>
     <string name="ml" translatable="false">mL</string>

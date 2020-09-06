@@ -13,6 +13,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/goldouble/android/gtomlconverter/MainActivity.kt">
           <value>
             <set />
@@ -23,7 +28,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values-pt/arrays.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values-pt/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Workout/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Workout/app/src/main/java/com/goldouble/android/workout/LogsActivity.kt">
           <value>
             <set />
           </value>
@@ -38,12 +63,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../Workout/app/src/main/res/layout/activity_logs.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../Workout/app/src/main/res/values-ko/strings.xml">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../Workout/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/OneDrive/AndroidStudioProjects/SeedPeople/app/src/main/java/com/android/seedpeople/people/PeopleFragment.kt">
           <value>
             <set />
           </value>

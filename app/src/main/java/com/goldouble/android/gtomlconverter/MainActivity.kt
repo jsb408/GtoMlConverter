@@ -25,15 +25,16 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Thread(Runnable {
+        Thread {
             recipeList = recipeDB?.recipeDao()?.getAll()!!
             mAdapter = RecipeAdapter(recipeList)
 
             recipeRecyclerView.adapter = mAdapter
             recipeRecyclerView.layoutManager = LinearLayoutManager(this)
-        }).start()
+        }.start()
 
-        MobileAds.initialize(this, getString(R.string.admob_app_id))
+        MobileAds.initialize(this)
+        //MobileAds.initialize(this, getString(R.string.admob_app_id))
         val adRequest = AdRequest.Builder().build()
         adView.loadAd(adRequest)
 
