@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="units">
+        <item>água</item>
+        <item>farinha</item>
+        <item>açúcar</item>
+        <item>sal</item>
+        <item>manteiga</item>
+        <item>óleo de cozinha</item>
+        <item>leite</item>
+        <item>amido</item>
+        <item>fermento em pó</item>
+        <item>bicarbonato de sódio</item>
+        <item>gelatina</item>
+        <item>ovo</item>
+        <item>ovo gema</item>
+        <item>ovo clara</item>
+        <item>encurtando</item>
+        <item>leite em pó desnatado</item>
+        <item>açúcar em pó</item>
+        <item>amêndoa em pó</item>
+        <item>chocolate picado</item>
+        <item>fermento seco</item>
+        <item>miolo de noz</item>
+        <item>rum</item>
+        <item>geleia de morango</item>
+        <item>creme de manteiga</item>
+        <item>melhorador de panificação</item>
+        <item>creamyvit</item>
+        <item>sedimento</item>
+        <item>chantilly</item>
+        <item>saquê(álcool)</item>
+        <item>açúcar mascavo</item>
+        <item>queijo mussarela</item>
+        <item>presunto picado</item>
+        <item>queijo em pó</item>
+        <item>pepita de chocolate</item>
+        <item>açúcar amarelo</item>
+        <item>sabor de baunilha</item>
+        <item>levain</item>
+        <item>pó de cacto nopal</item>
+        <item>mel</item>
+        <item>pó de chá verde</item>
+    </string-array>
+
+    <integer-array name="gpercup">
+        <item>200</item>
+        <item>120</item>
+        <item>160</item>
+        <item>160</item>
+        <item>170</item>
+        <item>160</item>
+        <item>180</item>
+        <item>130</item>
+        <item>150</item>
+        <item>140</item>
+        <item>100</item>
+        <item>220</item>
+        <item>160</item>
+        <item>210</item>
+        <item>160</item>
+        <item>95</item>
+        <item>115</item>
+        <item>90</item>
+        <item>110</item>
+        <item>200</item>
+        <item>100</item>
+        <item>200</item>
+        <item>333</item>
+        <item>227</item>
+        <item>106</item>
+        <item>140</item>
+        <item>400</item>
+        <item>226</item>
+        <item>200</item>
+        <item>150</item>
+        <item>105</item>
+        <item>80</item>
+        <item>117</item>
+        <item>155</item>
+        <item>140</item>
+        <item>95</item>
+        <item>217</item>
+        <item>167</item>
+        <item>267</item>
+        <item>67</item>
+    </integer-array>
+</resources>
