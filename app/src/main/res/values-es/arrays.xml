@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="units">
+        <item>agua</item>
+        <item>harina</item>
+        <item>azúcar</item>
+        <item>sal</item>
+        <item>manteca</item>
+        <item>aceite de cocina</item>
+        <item>leche</item>
+        <item>almidón</item>
+        <item>levadura en polvo</item>
+        <item>bicarbonato de sodio</item>
+        <item>gelatina</item>
+        <item>huevo</item>
+        <item>huevo yemas</item>
+        <item>huevo clara</item>
+        <item>acortamiento</item>
+        <item>leche desnatada en polvo</item>
+        <item>azúcar en polvo</item>
+        <item>polvo de almendras</item>
+        <item>chocolate picado</item>
+        <item>levadura seca</item>
+        <item>miga de nueces</item>
+        <item>ron</item>
+        <item>mermelada de fresa</item>
+        <item>crema de mantequilla</item>
+        <item>mejorador de horneado</item>
+        <item>creamyvit</item>
+        <item>sedimento</item>
+        <item>crema batida</item>
+        <item>sake(alcohol)</item>
+        <item>azúcar morena</item>
+        <item>queso mozzarella</item>
+        <item>jamon picado</item>
+        <item>queso en polvo</item>
+        <item>chispas de chocolate</item>
+        <item>azucar amarillo</item>
+        <item>sabor vainilla</item>
+        <item>levain</item>
+        <item>polvo de nopal</item>
+        <item>miel</item>
+        <item>polvo de té verde</item>
+    </string-array>
+</resources>
