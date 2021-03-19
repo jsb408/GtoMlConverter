@@ -2,7 +2,7 @@
 
 g, mL 간 상호 단위변환 앱
 
-- 진행기간 : 2021. 09
+- 진행기간 : 2019. 07. 14 ~ 2019. 07. 18
 - 사용기술 : Android Studio, Kotlin, SQLite
 - [Play 스토어](https://play.google.com/store/apps/details?id=com.goldouble.android.gtomlconverter)
 
