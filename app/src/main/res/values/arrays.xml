@@ -41,6 +41,7 @@
         <item>nopal cactus powder</item>
         <item>honey</item>
         <item>green tea powder</item>
+        <item>corn syrup</item>
     </string-array>
 
     <integer-array name="gpercup">
@@ -84,5 +85,6 @@
         <item>167</item>
         <item>267</item>
         <item>67</item>
+        <item>347</item>
     </integer-array>
 </resources>

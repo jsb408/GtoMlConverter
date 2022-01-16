@@ -41,48 +41,6 @@
         <item>pó de cacto nopal</item>
         <item>mel</item>
         <item>pó de chá verde</item>
+        <item>xarope de milho</item>
     </string-array>
-
-    <integer-array name="gpercup">
-        <item>200</item>
-        <item>120</item>
-        <item>160</item>
-        <item>160</item>
-        <item>170</item>
-        <item>160</item>
-        <item>180</item>
-        <item>130</item>
-        <item>150</item>
-        <item>140</item>
-        <item>100</item>
-        <item>220</item>
-        <item>160</item>
-        <item>210</item>
-        <item>160</item>
-        <item>95</item>
-        <item>115</item>
-        <item>90</item>
-        <item>110</item>
-        <item>200</item>
-        <item>100</item>
-        <item>200</item>
-        <item>333</item>
-        <item>227</item>
-        <item>106</item>
-        <item>140</item>
-        <item>400</item>
-        <item>226</item>
-        <item>200</item>
-        <item>150</item>
-        <item>105</item>
-        <item>80</item>
-        <item>117</item>
-        <item>155</item>
-        <item>140</item>
-        <item>95</item>
-        <item>217</item>
-        <item>167</item>
-        <item>267</item>
-        <item>67</item>
-    </integer-array>
 </resources>
