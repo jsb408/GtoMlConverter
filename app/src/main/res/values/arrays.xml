@@ -43,6 +43,7 @@
         <item>green tea powder</item>
         <item>cocoa powder</item>
         <item>condensed milk</item>
+        <item>corn syrup</item>
     </string-array>
 
     <integer-array name="gpercup">
@@ -88,5 +89,6 @@
         <item>67</item>
         <item>101</item>
         <item>259</item>
+        <item>347</item>
     </integer-array>
 </resources>
