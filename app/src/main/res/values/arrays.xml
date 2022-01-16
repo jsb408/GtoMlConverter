@@ -41,6 +41,8 @@
         <item>nopal cactus powder</item>
         <item>honey</item>
         <item>green tea powder</item>
+        <item>cocoa powder</item>
+        <item>condensed milk</item>
     </string-array>
 
     <integer-array name="gpercup">
@@ -84,5 +86,7 @@
         <item>167</item>
         <item>267</item>
         <item>67</item>
+        <item>101</item>
+        <item>259</item>
     </integer-array>
 </resources>
